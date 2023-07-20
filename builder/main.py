@@ -14,10 +14,7 @@ from util.writeconfig import WriteConfig
 
 
 def main():
-    stars = requests.get(
-        f"https://api.github.com/repos/addi00000/empyrean").json()["stargazers_count"]
-    forks = requests.get(
-        f"https://api.github.com/repos/addi00000/empyrean").json()["forks_count"]
+    
 
     logging.basicConfig(
         level="NOTSET",
@@ -31,9 +28,9 @@ def main():
     console = Console()
 
     console.print(pyfiglet.figlet_format("max", font="graffiti"),
-                  justify="center", highlight=False, style="magenta", overflow="ignore")
+                  justify="center", highlight=False, style="cyan", overflow="ignore")
     console.print(f"Max Quality The Best Fre Builder | Made by rlxe9",
-                  justify="center", highlight=False, style="bold magenta", overflow="ignore")
+                  justify="center", highlight=False, style="cyan", overflow="ignore")
 
     config = Config()
     config_data = config.get_config()
