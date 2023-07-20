@@ -74,6 +74,6 @@ MaX is licensed under the <a href="https://mit-license.org/">MIT License</a>.
 ## Errors?
 
 -   Make an [issue](https://github.com/xeto2w/MaX/issues)
--   Join the [Discord](https://discord.gg/GudVbfd9ZU)
+-   Join the [Discord](https://discord.gg/U6StsFF9Ad)
 
 <img src="https://cdn.discordapp.com/attachments/1116772776682987611/1131309567507185674/footer.png">
