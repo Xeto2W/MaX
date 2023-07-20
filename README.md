@@ -1,16 +1,11 @@
-<img src="img/banner.png" width="100%" height="100%" />
 
 <div align="center">
-    <img src="https://img.shields.io/github/languages/top/addi00000/empyrean?color=%23000000">
-    <img src="https://img.shields.io/github/stars/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://cdn.discordapp.com/attachments/1116394068939898951/1131491538371891252/Picsart_23-07-20_10-43-13-060.png">
+    <img src="https://cdn.discordapp.com/attachments/1131237142253818007/1131297984508874905/image.png">
     <br>
-    <img src="https://img.shields.io/github/commit-activity/w/addi00000/empyrean?color=%23000000"> 
-    <img src="https://img.shields.io/github/last-commit/addi00000/empyrean?color=%23000000&logoColor=%23000000">
-    <br>
-    <img src="https://img.shields.io/github/issues/addi00000/empyrean?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/addi00000/empyrean?color=%23000000&logoColor=%23000000">
-    <br>
-    Due to constant Discord terminations I will not be making a new support server. For urgent contact: <a href="https://t.me/forrrrrrrrr">Telegram</a>
+    <img src="https://cdn.discordapp.com/attachments/1131237142253818007/1131309367308857374/image.png"> 
+   
+ 
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
@@ -66,25 +61,19 @@
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
 
 <div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
-    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em0.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em1.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em3.png"></img>
-</div>
+
 
 ## Contributing
 
-View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
+
 
 ## License
 
-Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+MaX is licensed under the <a href="https://mit-license.org/">MIT License</a>.
 
 ## Errors?
 
--   Make an [issue](https://github.com/addi00000/empyrean/issues)
+-   Make an [issue](https://github.com/xeto2w/MaX/issues)
 -   Join the [Discord](https://discord.gg/GudVbfd9ZU)
 
-<img src="img/footer.png">
+<img src="https://cdn.discordapp.com/attachments/1116772776682987611/1131309567507185674/footer.png">
